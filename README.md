@@ -3,8 +3,9 @@ This is a simple sorting algorithms visualiser written in C using raylib
 
 
 controls - 
-UP / DOWN arrow keys - navigate diffrent algorithms
-Enter to start sorting
+* UP / DOWN arrow keys - navigate diffrent algorithms
+
+* Enter to start sorting
 
 <img width="632" alt="Capture" src="https://github.com/user-attachments/assets/59220659-cf2d-490f-aad9-99dace4ab83e">
 
